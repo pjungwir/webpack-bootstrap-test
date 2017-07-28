@@ -1,1 +1,1 @@
-alert("For great success!");
+import "bootstrap-sass/assets/javascripts/bootstrap.js";
